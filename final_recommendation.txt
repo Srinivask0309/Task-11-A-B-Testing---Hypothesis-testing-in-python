@@ -1,0 +1,19 @@
+
+A/B TEST FINAL RECOMMENDATION
+
+H0: No difference in conversion rates
+H1: Significant difference in conversion rates
+Alpha = 0.05
+
+Control Conversion Rate: 0.110
+Test Conversion Rate: 0.122
+P-value: 0.5540
+
+Decision:
+Fail to Reject H0
+
+Confidence Interval:
+[-0.0277, 0.0517]
+
+Business Recommendation:
+Roll out test version due to higher statistically significant conversion rate.
